@@ -34,7 +34,7 @@ A professional-grade password security analyzer with real-time entropy calculati
 ### Clone & Install
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/m46668000-jpg/password-strength-checker.git
 cd password-strength-checker
 
 # Create virtual environment
